@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Link Instagram</string>
+
+
+    <string name="link">
+    <a href="https://www.instagram.com/print_bishkek/">@Print_bishkek</a>
+</string>
+
+
+    <string name="add">
+    <a href="https://goo.gl/maps/pYPjKuG71Jf2DJY39/">ТЦ Берекет-Гранд</a>
+</string>
+
+    <string name="gis">
+    <a href="https://go.2gis.com/28911">ТЦ Берекет-Гранд 2 гис</a>
+</string>
+
+</resources>
